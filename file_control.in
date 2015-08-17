@@ -1,0 +1,10 @@
+//-------------------------------------------------
+//                Archivo de Control
+//-------------------------------------------------
+//----->    nombre de archivo de posiciones atomicas
+file.pos.xyz.name   "coors.xyz"
+//----->    numero de frames a leer de archivo
+//----->    [N]     : 1,2,3,4,....,N
+//----->    [f1-f2] : f1,....,f2
+//----->    [a1,a2,a3,a4,...]
+file.pos.xyz.frames   [1-10]
